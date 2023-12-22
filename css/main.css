@@ -485,7 +485,7 @@ body {
     color: #333;
 }
 
-.footer .inner .footer-content .footer-sitemap .footer-sitemap-menu .footer-sitemap-submenu:hover a {
+.footer .inner .footer-content .footer-sitemap .footer-sitemap-menu .footer-sitemap-submenu a:hover {
     text-decoration: underline;
 }
 
