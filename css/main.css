@@ -72,6 +72,7 @@ body {
     /* font-family: 'SpoqaHanSansNeo-Regular'; */
     font-family: 'Spoqa Han Sans Neo';
     font-weight: 400;
+    min-width: 1920px;
 }
 
 .header {
